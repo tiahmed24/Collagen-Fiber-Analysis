@@ -3,10 +3,10 @@ A fully automated Python pipeline for quantitative analysis of collagen fiber im
 
 <h3 align="center">Methodology</h3>
 <p align="center">
-  <img src="Panel.png" width="350"/>
+  <img src="Methods.png" width="350"/>
 </p>
 
-<h3 align="center">PCA Visualization</h3>
+<h3 align="center">Panel</h3>
 <p align="center">
-  <img src="PCA_1v2.png" width="350"/>
+  <img src="Panel.png" width="350"/>
 </p>
