@@ -1,4 +1,4 @@
-# Collagen-Fiber-Analysis
+# Quantitative Image Analysis of Collagen Fibers
 A fully automated Python pipeline for quantitative analysis of collagen fiber images captured with polarized light microscopy. The workflow includes preprocessing, outlier removal, statistical testing (ANOVA, PCA), and the generation of publication-ready visualizations.
 
 <p align="center">
