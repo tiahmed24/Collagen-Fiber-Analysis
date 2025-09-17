@@ -3,10 +3,11 @@ A fully automated Python pipeline for quantitative analysis of collagen fiber im
 
 <h3 align="center">Methodology</h3>
 <p align="center">
-  <img src="Methods.png" width="350"/>
+  <img src="Methods.png" width="800"/>
 </p>
 
 <h3 align="center">Panel</h3>
 <p align="center">
-  <img src="Panel.png" width="350"/>
+  <img src="Panel.png" width="800"/>
 </p>
+
